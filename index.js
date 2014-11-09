@@ -2,6 +2,7 @@
 /**
  * @module biquad
  * @author stagas
+ * @desc biquad filter
  * @org opendsp
  * @credits mohayonao
  * @see http://mohayonao.github.io/timbre.js/
